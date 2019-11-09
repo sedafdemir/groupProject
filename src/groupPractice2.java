@@ -4,6 +4,10 @@ public class groupPractice2 {
         System.out.println("Hello world");
         System.out.println("Second Line");
 
+        if (true) {
+            System.out.println("Hello");
+        }
+
 
     }
 }
