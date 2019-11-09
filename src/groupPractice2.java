@@ -6,6 +6,7 @@ public class groupPractice2 {
 
         if (true) {
             System.out.println("Hello");
+            System.out.println("good");
         }else {
             System.out.println("Bye");
         }
